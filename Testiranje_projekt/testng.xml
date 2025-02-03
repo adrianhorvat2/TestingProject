@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllTestsSuite" parallel="tests">
+
+    <test name="Cart Amount Tests">
+        <classes>
+            <class name="CartAmountTest"/>
+        </classes>
+    </test>
+
+    <test name="Login Tests">
+        <classes>
+            <class name="LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="Mouse Category Validation Tests">
+        <classes>
+            <class name="MouseCategoryValidationTest"/>
+        </classes>
+    </test>
+
+    <test name="Search Tests">
+        <classes>
+            <class name="SearchBarTest"/>
+        </classes>
+    </test>
+
+    <test name="Sorting Tests">
+        <classes>
+            <class name="SortByPriceTest"/>
+        </classes>
+    </test>
+
+    <test name="Discount Validation Tests">
+        <classes>
+            <class name="ValidDiscountTest"/>
+        </classes>
+    </test>
+
+</suite>
