@@ -4,7 +4,7 @@ This project is designed to automate the testing of various functionalities on t
 
 ---
 
-## **Project Overview**
+## **Project Overview**📄
 
 ### **What is being tested?**
 The following functionalities are tested in this project:
@@ -18,7 +18,7 @@ The following functionalities are tested in this project:
 
 ---
 
-## **Tools and Technologies Used**
+## **Tools and Technologies Used**🛠️
 
 | **Tool/Technology**       | **Purpose**                                      |
 |---------------------------|-------------------------------------------------|
@@ -31,7 +31,7 @@ The following functionalities are tested in this project:
 
 ---
 
-## **Prerequisites**
+## **Prerequisites**⚙️
 Before running the tests, ensure the following tools and configurations are set up:
 1. **Java JDK**: Install the latest version of Java JDK and set up the environment variables.
 
@@ -41,7 +41,7 @@ Before running the tests, ensure the following tools and configurations are set 
 
 ---
 
-## **How to Run the Tests**
+## **How to Run the Tests**🚀
 
 ### **1. Cloning the Repository**  
 Before running the tests, you need to clone the Git repository.  
@@ -99,7 +99,8 @@ E:\maven\apache-maven-3.8.8\bin\mvn test
 ```
 **Note: Ensure you execute this command inside the project folder.**
 
-## **Test Reports**
+---
+## **Test Reports**📊
 
 When running the tests with Maven, the test results will be generated automatically in an HTML format, providing detailed information on test execution. By default, these reports are saved in the `target/surefire-reports` directory.
 
